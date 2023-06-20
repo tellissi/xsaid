@@ -1,6 +1,10 @@
+const express = require('express');
 const https = require('https');
 const fs = require('fs');
 const config = require('./config.json');
+
+const app = express();
+const port = 3000;
 
 // Domain des RSS-Feeds aus der Konfigurationsdatei lesen
 const rssFeedDomain = config.rssFeedDomain;
@@ -13,6 +17,8 @@ const rssFeedUrl = rssFeedDomain + '/@' + username + '.rss';
 
 // Funktion zum Herunterladen des RSS-Feeds
 function downloadRSSFeed() {
+    console.log('RSS-Feed-URL:', rssFeedUrl); // Ausgabe der Download-URL
+
     https.get(rssFeedUrl, (response) => {
         let rssFeed = '';
 
@@ -36,14 +42,13 @@ function downloadRSSFeed() {
     });
 }
 
-// Funktion zum periodischen Herunterladen des RSS-Feeds
-function scheduleRSSFeedDownload() {
-    // Sofortiger Download beim Start
+// Route zum manuellen Herunterladen des RSS-Feeds
+app.get('/run-rss-downloader', (req, res) => {
     downloadRSSFeed();
+    res.send('RSS-Feed-Downloader gestartet.');
+});
 
-    // Wiederholter Download alle Stunde
-    setInterval(downloadRSSFeed, 60 * 60 * 1000); // 60 Minuten * 60 Sekunden * 1000 Millisekunden
-}
-
-// Start des Skripts
-scheduleRSSFeedDownload();
+// Start des Servers
+app.listen(port, () => {
+    console.log(`Server läuft auf Port ${port}`);
+});
