@@ -1,5 +1,9 @@
 xSaid fetches the actual Mastodon-Rss Feed and displays it on your site. 
-
+# Prequisites
+You must first install express. To do so type the following in your console: 
+```
+npm install express
+```
 # Setup
 1. Go to **/content/config.json**
 2. Define **Domain**, **Username** on your Mastodon-Instance and also a nickname, which will appear over the content.
