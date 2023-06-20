@@ -1,26 +1,16 @@
 const express = require('express');
 const https = require('https');
 const fs = require('fs');
+const config = require('./config.json');
 
 const app = express();
 const port = 3000;
 
-// Funktion zum Herunterladen des RSS-Feeds und Aktualisieren der Datei
-function downloadAndSaveRSSFeed() {
-    // Lese die Konfigurationsdatei
-    const config = JSON.parse(fs.readFileSync('./config.json'));
+const rssFeedDomain = config.rssFeedDomain;
+const username = config.username;
+const rssFeedUrl = rssFeedDomain + '/@' + username + '.rss';
 
-    // Domain des RSS-Feeds aus der Konfigurationsdatei lesen
-    const rssFeedDomain = config.rssFeedDomain;
-
-    // Benutzername aus der Konfigurationsdatei lesen
-    const username = config.username;
-
-    // URL des RSS-Feeds zusammensetzen
-    const rssFeedUrl = rssFeedDomain + '/@' + username + '.rss';
-
-    console.log('RSS-Feed-URL:', rssFeedUrl); // Ausgabe der Download-URL
-
+function downloadRSSFeed() {
     https.get(rssFeedUrl, (response) => {
         let rssFeed = '';
 
@@ -29,27 +19,40 @@ function downloadAndSaveRSSFeed() {
         });
 
         response.on('end', () => {
-            // Neue Datei speichern
-            fs.writeFile('actualfeed.rss', rssFeed, (err) => {
-                if (err) {
-                    console.error('Fehler beim Speichern des RSS-Feeds:', err);
-                } else {
-                    console.log('RSS-Feed erfolgreich heruntergeladen und aktualisiert.');
-                }
-            });
+            if (fs.existsSync('actualfeed.rss')) {
+                fs.unlinkSync('actualfeed.rss');
+            }
+
+            fs.writeFileSync('actualfeed.rss', rssFeed);
+
+            console.log('RSS-Feed erfolgreich heruntergeladen und aktualisiert.');
         });
     }).on('error', (error) => {
         console.log('Fehler beim Herunterladen des RSS-Feeds:', error);
     });
 }
 
-// Route zum manuellen Herunterladen und Aktualisieren des RSS-Feeds
-app.get('/run-rss-downloader', (req, res) => {
-    downloadAndSaveRSSFeed();
+app.get('/', (req, res) => {
+    res.send('RSS-Feed Server');
+});
+
+app.get('/run-rss-downloader', checkIP, (req, res) => {
+    downloadRSSFeed();
     res.send('RSS-Feed-Downloader gestartet.');
 });
 
-// Start des Servers
+function checkIP(req, res, next) {
+    const clientIP = req.ip;
+
+    const allowedIPs = config.allowedIPs;
+
+    if (allowedIPs.includes(clientIP)) {
+        next();
+    } else {
+        res.status(403).send(`Zugriff verweigert für IP-Adresse: ${clientIP}`);
+    }
+}
+
 app.listen(port, () => {
-    console.log(`Server läuft auf Port ${port}`);
+    console.log(`Server gestartet auf Port ${port}`);
 });

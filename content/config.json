@@ -1,5 +1,8 @@
 {
     "rssFeedDomain": "https://ist.social",
     "username": "an",
-    "nickname": "anton"
+    "nickname": "anton",
+    "allowedIPs": [
+        "::ffff:127.0.0.1"
+    ]
 }
