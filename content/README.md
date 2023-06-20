@@ -5,6 +5,7 @@ Define Domain, Username of your Mastodon-Instance in the /content/config.json.
 Also setup a nickname, which will appear over the content.
 # Execute
 1. head to the directory "content": with cd content
-2. node rssDownloader.js
+2. node server.js
 3. crtl +c 
+4. :3000/run-rss-downloader request this url from a cronjob-service
  
