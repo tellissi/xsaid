@@ -1,22 +1,24 @@
 const express = require('express');
 const https = require('https');
 const fs = require('fs');
-const config = require('./config.json');
 
 const app = express();
 const port = 3000;
 
-// Domain des RSS-Feeds aus der Konfigurationsdatei lesen
-const rssFeedDomain = config.rssFeedDomain;
+// Funktion zum Herunterladen des RSS-Feeds und Aktualisieren der Datei
+function downloadAndSaveRSSFeed() {
+    // Lese die Konfigurationsdatei
+    const config = JSON.parse(fs.readFileSync('./config.json'));
 
-// Benutzername aus der Konfigurationsdatei lesen
-const username = config.username;
+    // Domain des RSS-Feeds aus der Konfigurationsdatei lesen
+    const rssFeedDomain = config.rssFeedDomain;
 
-// URL des RSS-Feeds zusammensetzen
-const rssFeedUrl = rssFeedDomain + '/@' + username + '.rss';
+    // Benutzername aus der Konfigurationsdatei lesen
+    const username = config.username;
 
-// Funktion zum Herunterladen des RSS-Feeds
-function downloadRSSFeed() {
+    // URL des RSS-Feeds zusammensetzen
+    const rssFeedUrl = rssFeedDomain + '/@' + username + '.rss';
+
     console.log('RSS-Feed-URL:', rssFeedUrl); // Ausgabe der Download-URL
 
     https.get(rssFeedUrl, (response) => {
@@ -27,24 +29,23 @@ function downloadRSSFeed() {
         });
 
         response.on('end', () => {
-            // Vorherige Datei löschen
-            if (fs.existsSync('actualfeed.rss')) {
-                fs.unlinkSync('actualfeed.rss');
-            }
-
             // Neue Datei speichern
-            fs.writeFileSync('actualfeed.rss', rssFeed);
-
-            console.log('RSS-Feed erfolgreich heruntergeladen und aktualisiert.');
+            fs.writeFile('actualfeed.rss', rssFeed, (err) => {
+                if (err) {
+                    console.error('Fehler beim Speichern des RSS-Feeds:', err);
+                } else {
+                    console.log('RSS-Feed erfolgreich heruntergeladen und aktualisiert.');
+                }
+            });
         });
     }).on('error', (error) => {
         console.log('Fehler beim Herunterladen des RSS-Feeds:', error);
     });
 }
 
-// Route zum manuellen Herunterladen des RSS-Feeds
+// Route zum manuellen Herunterladen und Aktualisieren des RSS-Feeds
 app.get('/run-rss-downloader', (req, res) => {
-    downloadRSSFeed();
+    downloadAndSaveRSSFeed();
     res.send('RSS-Feed-Downloader gestartet.');
 });
 
