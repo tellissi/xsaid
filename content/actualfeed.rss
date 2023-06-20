@@ -1,150 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>An :sparkles:</title>
-    <description>Public posts from @an@ist.social</description>
-    <link>https://ist.social/@an</link>
+    <title>NDR</title>
+    <description>Öffentliche Beiträge von @NDR@ard.social</description>
+    <link>https://ard.social/@NDR</link>
     <image>
-      <url>https://ist.social/system/accounts/avatars/108/209/556/186/827/396/original/7609ecc9048a2e5a.png</url>
-      <title>An :sparkles:</title>
-      <link>https://ist.social/@an</link>
+      <url>https://storage.googleapis.com/mastodon-prod-bucket/accounts/avatars/110/337/485/003/489/943/original/ecfdb4a36219ea9b.jpg</url>
+      <title>NDR</title>
+      <link>https://ard.social/@NDR</link>
     </image>
-    <lastBuildDate>Mon, 17 Apr 2023 23:02:23 +0000</lastBuildDate>
-    <webfeeds:icon>https://ist.social/system/accounts/avatars/108/209/556/186/827/396/original/7609ecc9048a2e5a.png</webfeeds:icon>
+    <lastBuildDate>Tue, 20 Jun 2023 13:15:20 +0000</lastBuildDate>
+    <webfeeds:icon>https://storage.googleapis.com/mastodon-prod-bucket/accounts/avatars/110/337/485/003/489/943/original/ecfdb4a36219ea9b.jpg</webfeeds:icon>
     <generator>Mastodon v4.1.2</generator>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/110216645405631386</guid>
-      <link>https://ist.social/@an/110216645405631386</link>
-      <pubDate>Mon, 17 Apr 2023 23:02:23 +0000</pubDate>
-      <description>&lt;p&gt;Spent the weekend participating in a Hackathon and building a prototype-solution to fight the labor shortage here in Germany!&lt;br /&gt;Was in a Team with some talented people: Akshat, Ridhima &amp;amp; Felix!&lt;br /&gt;Together we built an automated pre-hiring assessment tool. It was really fun!&lt;/p&gt;</description>
-      <media:content url="https://ist.social/system/media_attachments/files/110/216/630/707/070/942/original/d4e4a21f1c24e5d8.jpg" type="image/jpeg" fileSize="59655" medium="image">
+      <guid isPermaLink="true">https://ard.social/@NDR/110576724876748568</guid>
+      <link>https://ard.social/@NDR/110576724876748568</link>
+      <pubDate>Tue, 20 Jun 2023 13:15:20 +0000</pubDate>
+      <description>&lt;p&gt;Am 20. Juni 1948 wird in den drei West-Besatzungszonen die Reichsmark durch die D-Mark ersetzt. Erspartes wird nahezu wertlos, dafür füllen sich die Regale über Nacht mit Waren.&lt;/p&gt;&lt;p&gt;Oder wie es ein zeitgenössischer Radioreporter auf den Punkt bringt: &amp;quot;Mit der Währungsreform wurde über Nacht auch das Obst reif.&amp;quot;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.ndr.de/geschichte/chronologie/Waehrungsreform-1948-Ueber-Nacht-volle-Regale,waehrungsreform102.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/geschichte/chronologie/&lt;/span&gt;&lt;span class="invisible"&gt;Waehrungsreform-1948-Ueber-Nacht-volle-Regale,waehrungsreform102.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/W%C3%A4hrungsreform" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Währungsreform&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRgeschichte" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRgeschichte&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/576/573/385/011/740/original/3589483ea1249bcc.jpeg" type="image/jpeg" fileSize="437477" medium="image">
         <media:rating scheme="urn:simple">nonadult</media:rating>
-        <media:description type="plain">A screenshot showing our prototype-solution: A web-based platform guiding you through multiple steps to get matched with potential employers.</media:description>
+        <media:description type="plain">Wohnungsbau im Rahmen des Berliner-Not-Programms mit Marshallplan-Hilfe: Blick auf eine Baustelle 1950.
+Dazu das Zitat von Christoph Strupp von der Forschungsstelle für Zeitgeschichte in Hamburg: "Die Währungsreform hat vereinfacht gesagt dafür gesorgt, dass Geld wieder wertvoll war, weil man es dramatisch verknappt hat."</media:description>
       </media:content>
-      <media:content url="https://ist.social/system/media_attachments/files/110/216/630/810/450/856/original/8b7d76c03097caed.jpg" type="image/jpeg" fileSize="262317" medium="image">
+      <category>Währungsreform</category>
+      <category>ndr</category>
+      <category>NDRgeschichte</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://ard.social/@NDR/110576412798239640</guid>
+      <link>https://ard.social/@NDR/110576412798239640</link>
+      <pubDate>Tue, 20 Jun 2023 11:55:58 +0000</pubDate>
+      <description>&lt;p&gt;Am 20. Juni ist Weltflüchtlingstag: Der Tag, der daran erinnert, dass Millionen Menschen gezwungen sind, ihre Heimat zu verlassen. &lt;/p&gt;&lt;p&gt;Rund 110 Millionen Menschen sind derzeit auf der Flucht - so viele wie nie zuvor. Sie fliehen vor Krieg, vor Verfolgung und vor den Folgen des Klimawandels. &lt;/p&gt;&lt;p&gt;NDR Info zeigt die Probleme, auf die Flüchtlinge in Deutschland treffen, aber auch die Erfolge von Integrationsbemühungen. &lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.ndr.de/nachrichten/info/Weltfluechtlingstag-Fuer-mehr-Integration-und-Akzeptanz,weltfluechtlingstag110.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/info/Weltfl&lt;/span&gt;&lt;span class="invisible"&gt;uechtlingstag-Fuer-mehr-Integration-und-Akzeptanz,weltfluechtlingstag110.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Weltfl%C3%BCchtlingstag" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Weltflüchtlingstag&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Integration" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Integration&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Akzeptanz" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Akzeptanz&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/576/398/212/586/622/original/4316cbd41231f9b4.png" type="image/png" fileSize="1887409" medium="image">
         <media:rating scheme="urn:simple">nonadult</media:rating>
-        <media:description type="plain">A group photo of all participants of the Hackathon!</media:description>
+        <media:description type="plain">Ein junger Mann und eine junge Frau stehen friedlich auf einer Demo und halten ein Schild hoch, auf dem steht: "Wir haben Platz".
+Dazu der Text: Für mehr Integration und Akzeptanz: Weltflüchtlingstag</media:description>
       </media:content>
+      <category>Weltflüchtlingstag</category>
+      <category>ndr</category>
+      <category>integration</category>
+      <category>Akzeptanz</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/110005751912863482</guid>
-      <link>https://ist.social/@an/110005751912863482</link>
-      <pubDate>Sat, 11 Mar 2023 17:09:24 +0000</pubDate>
-      <description>&lt;p&gt;😍&lt;/p&gt;</description>
-      <media:content url="https://ist.social/system/media_attachments/files/110/005/750/553/323/859/original/fb3fb722c4adea4a.png" type="image/png" fileSize="37310" medium="image">
+      <guid isPermaLink="true">https://ard.social/@NDR/110575533413792717</guid>
+      <link>https://ard.social/@NDR/110575533413792717</link>
+      <pubDate>Tue, 20 Jun 2023 08:12:19 +0000</pubDate>
+      <description>&lt;p&gt;&amp;quot;Dramatisch&amp;quot;, &amp;quot;täglich bedrohlicher&amp;quot;, &amp;quot;gnadenlos&amp;quot; - noch viel trüber kann man das Szenario in Krankenhäusern in ganz Deutschland nicht beschreiben. &lt;/p&gt;&lt;p&gt;Mit einem bundesweiten Aktionstag wollen Kliniken und Beschäftigte am Dienstag auf die dramatische Finanzlage der Krankenhäuser aufmerksam machen.&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.ndr.de/nachrichten/niedersachsen/Alarmstufe-rot-Krankenhaeuser-machen-auf-Finanznot-aufmerksam,krankenhaeuser242.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/niedersachs&lt;/span&gt;&lt;span class="invisible"&gt;en/Alarmstufe-rot-Krankenhaeuser-machen-auf-Finanznot-aufmerksam,krankenhaeuser242.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Finanznot" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Finanznot&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Krankenhaus" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Krankenhaus&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRNDS" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRNDS&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/575/417/846/928/849/original/4738bac1f4bc6782.png" type="image/png" fileSize="1532991" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Mehrere Menschen nehmen an einem Warnstreik der Gewerkschaft Marburger Bund teil.
+Dazu der Text: "Alarmstufe rot": Krankenhäuser in Finanznot.
+Ein bundesweiter Aktionstag der Kliniken soll auf die dramatische Finanzlage der Krankenhäuser aufmerksam machen.</media:description>
+      </media:content>
+      <category>Finanznot</category>
+      <category>krankenhaus</category>
+      <category>ndrnds</category>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://ard.social/@NDR/110571612993222381</guid>
+      <link>https://ard.social/@NDR/110571612993222381</link>
+      <pubDate>Mon, 19 Jun 2023 15:35:18 +0000</pubDate>
+      <description>&lt;p&gt;Die neue Schnellfähre nach Wangerooge hat am Montag ihren regulären Betrieb aufgenommen: Der &amp;quot;Watt Sprinter&amp;quot; legte am Mittag erstmals in Harlesiel ab.&lt;/p&gt;&lt;p&gt;Die kleine Fähre, die im Auftrag der Deutschen Bahn fährt, kann mit maximal 54 Passagieren an Bord genutzt werden. Zunächst wird die Schnellfähre tageweise zu den Hochwasserzeiten eingesetzt. &lt;/p&gt;&lt;p&gt;📝▶️ &lt;a href="https://www.ndr.de/nachrichten/niedersachsen/Watt-Sprinter-sprintet-erstmals-nach-Wangerooge,wattsprinter106.html" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/niedersachs&lt;/span&gt;&lt;span class="invisible"&gt;en/Watt-Sprinter-sprintet-erstmals-nach-Wangerooge,wattsprinter106.html&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Wangerooge" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Wangerooge&lt;/span&gt;&lt;/a&gt; # Fähre &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/572/099/279/274/923/original/62a27e760574b70b.jpeg" type="image/jpeg" fileSize="247682" medium="image">
         <media:rating scheme="urn:simple">nonadult</media:rating>
       </media:content>
+      <category>wangerooge</category>
+      <category>ndr</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109983021373892563</guid>
-      <link>https://ist.social/@an/109983021373892563</link>
-      <pubDate>Tue, 07 Mar 2023 16:48:43 +0000</pubDate>
-      <description>&lt;p&gt;If you own a domain/website and would like to help me test &lt;a href="https://nanelo.com" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;nanelo.com&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt; (a DNS/nameserver service I&amp;#39;m working on), please DM me!&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110571319205750628</guid>
+      <link>https://ard.social/@NDR/110571319205750628</link>
+      <pubDate>Mon, 19 Jun 2023 14:20:36 +0000</pubDate>
+      <description>&lt;p&gt;Nach Abschluss des Investitionsprüfverfahrens unterzeichneten die Hamburger Hafen und Logistik AG und der chinesische Staatskonzern Cosco die Verträge zur Minderheitsbeteiligung am Terminal Tollerort.&lt;/p&gt;&lt;p&gt;Damit beteilige sich eine Cosco-Tochter mit 24,99 Prozent. Das Terminal soll zu einem bevorzugten Umschlagpunkt für Cosco werden, an dem Ladungsströme zwischen Asien und Europa konzentriert werden sollen.&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.ndr.de/nachrichten/hamburg/Hamburger-Hafen-Umstrittener-Cosco-Deal-unter-Dach-und-Fach,cosco146.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/hamburg/Ham&lt;/span&gt;&lt;span class="invisible"&gt;burger-Hafen-Umstrittener-Cosco-Deal-unter-Dach-und-Fach,cosco146.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Hafen" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hafen&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Hamburg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hamburg&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <category>Hafen</category>
+      <category>hamburg</category>
+      <category>ndr</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109688919087477076</guid>
-      <link>https://ist.social/@an/109688919087477076</link>
-      <pubDate>Sat, 14 Jan 2023 18:14:38 +0000</pubDate>
-      <description>&lt;p&gt;Finally added image support to RSS API! Took longer than expected 😅&lt;br /&gt;&lt;a href="https://rssapi.net/blog/image-data-for-all-feeds" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;rssapi.net/blog/image-data-for&lt;/span&gt;&lt;span class="invisible"&gt;-all-feeds&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <media:content url="https://ist.social/system/media_attachments/files/109/688/918/922/773/330/original/6beb682aec569f23.jpg" type="image/jpeg" fileSize="182148" medium="image">
+      <guid isPermaLink="true">https://ard.social/@NDR/110570610286413633</guid>
+      <link>https://ard.social/@NDR/110570610286413633</link>
+      <pubDate>Mon, 19 Jun 2023 11:20:18 +0000</pubDate>
+      <description>&lt;p&gt;Rund 80.000 Fans haben beim Hurricane Festival im niedersächsischen Scheeßel drei Tage lang gefeiert - und zahlreiche Bands aus dem In- und Ausland erlebt. &lt;/p&gt;&lt;p&gt;NDR.de bietet Auftritte als Video on demand an.&lt;/p&gt;&lt;p&gt;📝▶️ &lt;a href="https://www.ndr.de/kultur/musik/hurricane_festival/Hurricane-Festival-2023-Die-Videos-on-demand,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/kultur/musik/hurricane_&lt;/span&gt;&lt;span class="invisible"&gt;festival/Hurricane-Festival-2023-Die-Videos-on-demand,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Hurricane" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hurricane&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Festival" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Festival&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/videoondemand" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;videoondemand&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/570/839/194/196/264/original/e1e974588a5b0bb2.png" type="image/png" fileSize="2068686" medium="image">
         <media:rating scheme="urn:simple">nonadult</media:rating>
       </media:content>
+      <category>Hurricane</category>
+      <category>festival</category>
+      <category>videoondemand</category>
+      <category>ndr</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109639437765804109</guid>
-      <link>https://ist.social/@an/109639437765804109</link>
-      <pubDate>Fri, 06 Jan 2023 00:30:53 +0000</pubDate>
-      <description>&lt;p&gt;welcome to zombo com...&lt;/p&gt;&lt;p&gt;anything is possible on zombo com&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110570058839757844</guid>
+      <link>https://ard.social/@NDR/110570058839757844</link>
+      <pubDate>Mon, 19 Jun 2023 09:00:04 +0000</pubDate>
+      <description>&lt;p&gt;Die Kieler Woche ist mit einem Gästerekord von 1,2 Millionen Besucherinnen und Besuchern in den ersten Tagen gestartet. Am Samstagabend war es auf der Kiellinie zu voll: Es kam zu Gedränge, die Polizei griff ein.&lt;/p&gt;&lt;p&gt;&amp;quot;Es sind aus beiden Richtungen zahlreiche Personen aufeinander zugekommen, es hat sich dann ein entsprechender Pfropfen gebildet, sodass es nicht mehr vor und zurück ging&amp;quot;, sagte Polizeisprecher Matthias Arends.&lt;/p&gt;&lt;p&gt;📝 ▶️ &lt;a href="https://www.ndr.de/nachrichten/schleswig-holstein/kieler_woche/Kieler-Woche-Start-mit-Gaesterekord-und-Gedraenge-am-Wasser,kielerwoche3710.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/schleswig-h&lt;/span&gt;&lt;span class="invisible"&gt;olstein/kieler_woche/Kieler-Woche-Start-mit-Gaesterekord-und-Gedraenge-am-Wasser,kielerwoche3710.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRsh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRsh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Kielerwoche" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Kielerwoche&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Kiel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Kiel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/570/036/405/741/984/original/d9e9864842c066a6.jpg" type="image/jpeg" fileSize="325370" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Zahlreiche Besucher sind bei Sonnenschein an der Kiellinie zur Kieler Woche unterwegs. Dazu der Text: Kieler Woche zu voll? Polizei greift ein: Hunderttausende Besucher haben am Sonnabend für überfüllte Wege gesorgt. An der Kiellinie musste die Polizei zeitweise eine Einbahnstraßenregelung einrichten. </media:description>
+      </media:content>
+      <category>NDRsh</category>
+      <category>kielerwoche</category>
+      <category>kiel</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109627295678529258</guid>
-      <link>https://ist.social/@an/109627295678529258</link>
-      <pubDate>Tue, 03 Jan 2023 21:03:00 +0000</pubDate>
-      <description>&lt;p&gt;Wanted to whitelist the Crawlers from Google, Bing, etc. so they don&amp;#39;t get rate-limited on my servers, but I couldn&amp;#39;t find a good, up-to-date whitelist of all IPs... so I made one!&lt;br /&gt;The repo should be automatically updated once a day!&lt;br /&gt;Any services missing?&lt;br /&gt;&lt;a href="https://github.com/AnTheMaker/GoodBots" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;github.com/AnTheMaker/GoodBots&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110566558556191619</guid>
+      <link>https://ard.social/@NDR/110566558556191619</link>
+      <pubDate>Sun, 18 Jun 2023 18:09:54 +0000</pubDate>
+      <description>&lt;p&gt;Bei vielen Menschen im Norden standen am Wochenende die Gartentüren offen: 220 private Gärtner in Hamburg und Schleswig-Holstein haben sich am Tag der offenen Gärten beteiligt.&lt;/p&gt;&lt;p&gt;Auch Ingeborg und Eckhard Wiemer in Fahrenkrug zeigten ihr kleines Paradies und gaben Tipps, wie auch andere ihre Gärten ganzjährig zum Blühen bringen und zu einem Zuhause für Insekten machen. 🌻🪷🥀🐛🦋🐌&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/Gaerten-in-Schleswig-Holstein-oeffnen-die-Pforten,shmag105866.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/fernsehen/sendungen/sch&lt;/span&gt;&lt;span class="invisible"&gt;leswig-holstein_magazin/Gaerten-in-Schleswig-Holstein-oeffnen-die-Pforten,shmag105866.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRsh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRsh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Garten" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Garten&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Naturschutz" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Naturschutz&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Hamburg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hamburg&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Fahrenkrug" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Fahrenkrug&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/566/494/949/413/994/original/cca44fdf3006df54.jpg" type="image/jpeg" fileSize="300510" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Eine älterer Herr mit Brille und Karohemd steht in einem blühenden Garten. Dazu der Text: "Der Garten ist meine Kraftquelle. Manche sehen das als Arbeit an, wenn sie im Garten was tun müssen. Für mich ist das wunderbare Erholung." Eckhard Wiemer aus Fahrenkrug präsentiert zur Aktion "offener Garten" sein grünes Paradies.</media:description>
+      </media:content>
+      <category>NDRsh</category>
+      <category>garten</category>
+      <category>Naturschutz</category>
+      <category>hamburg</category>
+      <category>Fahrenkrug</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109611387537206542</guid>
-      <link>https://ist.social/@an/109611387537206542</link>
-      <pubDate>Sun, 01 Jan 2023 01:37:21 +0000</pubDate>
-      <description>&lt;p&gt;Happy 2023! 🥳&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110565540588631409</guid>
+      <link>https://ard.social/@NDR/110565540588631409</link>
+      <pubDate>Sun, 18 Jun 2023 13:51:01 +0000</pubDate>
+      <description>&lt;p&gt;So viele Menschen wie noch nie zuvor in Hamburg besitzen ein HVV-Abo. Rechnet man alle Zeitkarten zusammen, gab es Ende Mai 911.000 Abonnentinnen und Abonnenten. Der bisherige Höchststand im Jahr 2019 lag bei 786.000 Abos. &lt;/p&gt;&lt;p&gt;Der Turbo für Bus und Bahn ist das Deutschlandticket. Es ist am 1. Mai gestartet, bundesweit ohne zeitliche Einschränkung im Nah- und Regionalverkehr gültig und wird im Abo für 49 Euro im Monat verkauft.&lt;/p&gt;&lt;p&gt;📝▶️&lt;a href="https://www.ndr.de/nachrichten/hamburg/Deutschlandticket-HVV-verkauft-in-Hamburg-224000-neue-Abos,deutschlandticket208.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/hamburg/Deu&lt;/span&gt;&lt;span class="invisible"&gt;tschlandticket-HVV-verkauft-in-Hamburg-224000-neue-Abos,deutschlandticket208.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Deutschlandticket" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Deutschlandticket&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Hamburg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hamburg&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/565/537/657/457/463/original/92bfb1f2088286b0.webp" type="image/webp" fileSize="114926" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Das Foto zeigt eine Hand mit einem Handy, darauf ist das Deutschlandticket zu sehen.</media:description>
+      </media:content>
+      <category>Deutschlandticket</category>
+      <category>hamburg</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109596974158024765</guid>
-      <link>https://ist.social/@an/109596974158024765</link>
-      <pubDate>Thu, 29 Dec 2022 12:31:50 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://SpaceHey.com" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;SpaceHey.com&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt; is no longer using Cloudflare! 🥳&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110564793469927962</guid>
+      <link>https://ard.social/@NDR/110564793469927962</link>
+      <pubDate>Sun, 18 Jun 2023 10:41:01 +0000</pubDate>
+      <description>&lt;p&gt;Mit einer großen Fahrradsternfahrt wird in Hamburg für eine umwelt- und sozialverträgliche Verkehrswende demonstriert. Gefordert werden u.a. mehr Velorouten und eine sichere Elbquerung. &lt;/p&gt;&lt;p&gt;&amp;quot;Auch die Wiedereinführung der autofreien Sonntage wären starke Signale zugunsten des Radverkehrs und der öffentlichen Verkehrsmittel&amp;quot;, sagt Thomas Schönberger vom Verein &amp;quot;Mobil ohne Auto&amp;quot;. &lt;/p&gt;&lt;p&gt; 📝▶️&lt;a href="https://www.ndr.de/nachrichten/hamburg/Fahrradsternfahrt-heute-in-Hamburg-demonstriert-fuer-Verkehrswende,sternfahrt256.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/hamburg/Fah&lt;/span&gt;&lt;span class="invisible"&gt;rradsternfahrt-heute-in-Hamburg-demonstriert-fuer-Verkehrswende,sternfahrt256.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Hamburg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hamburg&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRhh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRhh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Fahrrad" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Fahrrad&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Sternfahrt" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Sternfahrt&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Verkehrswende" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Verkehrswende&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/564/787/254/235/283/original/875190a53b1f6f41.jpg" type="image/jpeg" fileSize="424542" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Tausende Fahrradfahrerinnen und Fahrradfahrer überqueren während einer Sternfahrt die Köhlbrandbrücke in Hamburg und demonstrieren so für eine Verkehrswende.</media:description>
+      </media:content>
+      <category>hamburg</category>
+      <category>NDRhh</category>
+      <category>fahrrad</category>
+      <category>sternfahrt</category>
+      <category>verkehrswende</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109562540946149806</guid>
-      <link>https://ist.social/@an/109562540946149806</link>
-      <pubDate>Fri, 23 Dec 2022 10:35:01 +0000</pubDate>
-      <description>&lt;p&gt;While other social networks work towards showing less counts for views and likes, Twitter now shows even more metrics about a Tweet.&lt;br /&gt;I don&amp;#39;t really think this is a good idea - instead of focusing on the content, it&amp;#39;s now even more about just &amp;quot;the numbers&amp;quot;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110564722980402822</guid>
+      <link>https://ard.social/@NDR/110564722980402822</link>
+      <pubDate>Sun, 18 Jun 2023 10:23:05 +0000</pubDate>
+      <description>&lt;p&gt;78.000 Musik-Fans feiern in Scheeßel beim Hurricane Festival - und am Samstag gab es einen ordentlichen Wolkenbruch zur Abkühlung.&lt;/p&gt;&lt;p&gt;Heute ist Finaltag, der NDR und Arte übertragen wieder ausgesuchte Konzerte wie den Auftritt von Clueso und Placebo im Videostream. Den Videoplayer sowie alle Infos vom Festival gibt&amp;#39;s auf unsere Website. Viel Spaß! 🙂🤘&lt;/p&gt;&lt;p&gt;📝▶️🔴&lt;a href="https://www.ndr.de/kultur/musik/hurricane_festival/Hurricane-Festival-2023-NDRde-zeigt-Konzerte-im-Videostream,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/kultur/musik/hurricane_&lt;/span&gt;&lt;span class="invisible"&gt;festival/Hurricane-Festival-2023-NDRde-zeigt-Konzerte-im-Videostream,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRnds" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRnds&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Hurricane" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hurricane&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Schee%C3%9Fel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Scheeßel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Videostream" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Videostream&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Clueso" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Clueso&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/564/675/220/009/759/original/476f8d5e5163ecaf.jpg" type="image/jpeg" fileSize="169436" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Eine Menschenmenge bei einem Konzert. Daneben stehen die Spielzeiten der Bands, die um Livestream beim NDR zu sehen sein werden, u.a. Clueso um 17 Uhr und Placebo um 20.45 Uhr.</media:description>
+      </media:content>
+      <category>ndrnds</category>
+      <category>Hurricane</category>
+      <category>Scheeßel</category>
+      <category>Videostream</category>
+      <category>Clueso</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109508848262695259</guid>
-      <link>https://ist.social/@an/109508848262695259</link>
-      <pubDate>Tue, 13 Dec 2022 23:00:16 +0000</pubDate>
-      <description>&lt;p&gt;Just remembered that I made a silly DVD screensaver website about a year ago...&lt;br /&gt;&lt;a href="https://dv-d.com" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;dv-d.com&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(and it&amp;#39;s open-source! &lt;a href="https://github.com/AnTheMaker/dv-d.com" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;github.com/AnTheMaker/dv-d.com&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;)&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110561031277078548</guid>
+      <link>https://ard.social/@NDR/110561031277078548</link>
+      <pubDate>Sat, 17 Jun 2023 18:44:14 +0000</pubDate>
+      <description>&lt;p&gt;Klimaaktivisten der Gruppe &amp;quot;Smash Cruiseshit&amp;quot; haben sich im Hafen Rostock-Warnemünde mit Schlauchbooten und Kanus vor dem Kreuzfahrtschiff &amp;quot;Aida Diva&amp;quot; platziert, um es so am Auslaufen zu hindern. &lt;/p&gt;&lt;p&gt;Ihre Kritik: Auf der einen Seite machten Menschen Luxusurlaub an Bord, auf der anderen Seite hätten Menschen unter den Auswirkungen der Klimakrise zu leiden. Sie fordern den sofortigen Stopp aller Kreuzfahrten.  🚢🛑&lt;/p&gt;&lt;p&gt;📝▶️&lt;a href="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Rostock-Klimaaktivisten-hindern-Kreuzfahrtschiff-am-Auslaufen,klimaaktivisten150.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/mecklenburg&lt;/span&gt;&lt;span class="invisible"&gt;-vorpommern/Rostock-Klimaaktivisten-hindern-Kreuzfahrtschiff-am-Auslaufen,klimaaktivisten150.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Rostock" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Rostock&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Kreuzfahrt" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Kreuzfahrt&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Klimakrise" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Klimakrise&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRmv" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRmv&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/561/013/292/247/246/original/4e3263c16904946a.jpg" type="image/jpeg" fileSize="176969" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Das Bild zeigt das Kreuzfahrtschiff Aida Diva in Rostock-Warnemünde, davor Klimaaktivisten in Booten, die es am Auslaufen hindern.</media:description>
+      </media:content>
+      <category>rostock</category>
+      <category>kreuzfahrt</category>
+      <category>klimakrise</category>
+      <category>NDRmv</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109401247195676438</guid>
-      <link>https://ist.social/@an/109401247195676438</link>
-      <pubDate>Thu, 24 Nov 2022 22:55:54 +0000</pubDate>
-      <description>&lt;p&gt;Btw, I created an official SpaceHey Mastodon account a while ago: &lt;span class="h-card"&gt;&lt;a href="https://mastodon.social/@spacehey" class="u-url mention"&gt;@&lt;span&gt;spacehey&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;img rel="emoji" draggable="false" width="16" height="16" class="emojione" style="width: 1.1em; height: 1.1em; object-fit: contain; vertical-align: middle; margin: -.2ex .15em .2ex" alt=":spacehey_white:" title=":spacehey_white:" src="https://ist.social/system/custom_emojis/images/000/000/029/original/bdd85bc85e9a3b04.png"&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110560695784579318</guid>
+      <link>https://ard.social/@NDR/110560695784579318</link>
+      <pubDate>Sat, 17 Jun 2023 17:18:55 +0000</pubDate>
+      <description>&lt;p&gt;Das Hurricane Festival ist eines der größten Musikfestivals in Deutschland, 78.000 Musik-Fans werden in Scheeßel erwartet. 🤘&lt;/p&gt;&lt;p&gt;Am Freitag begeisterten u.a. Peter Fox, Billy Talent und Kraftklub - die Konzertberichte gibt&amp;#39;s hinter dem Link. Heute stehen Muse, Marteria, Madsen und Casper auf der Bühne.&lt;/p&gt;&lt;p&gt;Der NDR und arte übertragen ausgesuchte Konzerte im Videostream - viel Spaß! 🙂&lt;/p&gt;&lt;p&gt;📝▶️🔴&lt;a href="https://www.ndr.de/kultur/musik/hurricane_festival/Hurricane-Festival-2023-NDRde-zeigt-Konzerte-im-Videostream,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/kultur/musik/hurricane_&lt;/span&gt;&lt;span class="invisible"&gt;festival/Hurricane-Festival-2023-NDRde-zeigt-Konzerte-im-Videostream,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Hurricane" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hurricane&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Festival" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Festival&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Livestream" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Livestream&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Schee%C3%9Fel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Scheeßel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/560/638/110/346/958/original/1ce858994209f64c.jpg" type="image/jpeg" fileSize="174089" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Auf dem Foto ist eine glückliche Festivalbesucherin zu sehen, daneben der Text mit den Auftrittszeiten der Bands. 20.45 Uhr wird im Livestream Materia gezeigt, ab 22 Uhr Madsen, ab 23 Uhr Muse und ab 00:30 Casper.</media:description>
+      </media:content>
+      <category>Hurricane</category>
+      <category>festival</category>
+      <category>Livestream</category>
+      <category>Scheeßel</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109401243360736888</guid>
-      <link>https://ist.social/@an/109401243360736888</link>
-      <pubDate>Thu, 24 Nov 2022 22:54:55 +0000</pubDate>
-      <description>&lt;p&gt;Oof, that Mastodon migration took way too long. But now it&amp;#39;s working (including the media proxy!) 😊&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110560021395085029</guid>
+      <link>https://ard.social/@NDR/110560021395085029</link>
+      <pubDate>Sat, 17 Jun 2023 14:27:25 +0000</pubDate>
+      <description>&lt;p&gt;Vier Jahre lang war die Fahrradfähre MS Rødsand im deutsch-dänischen Grenzgebiet zwischen Egernsund und Flensburg unterwegs. 🇩🇪 🇩🇰 &lt;/p&gt;&lt;p&gt;Da die letzte Saison so erfolgreich war, bekommt die MS Rødsand jetzt Verstärkung: Ab dem 17. Juni ist mit der MS Thjalfe eine zweite grenzüberschreitende Radfähre im Einsatz. ⛴️ 🌊 &lt;/p&gt;&lt;p&gt;Alle wissenswerten Infos gibt&amp;#39;s hier 👉 &lt;a href="https://www.ndr.de/nachrichten/schleswig-holstein/Grenzueberschreitende-Radfaehre-startet-wieder-,radfaehre104.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/schleswig-h&lt;/span&gt;&lt;span class="invisible"&gt;olstein/Grenzueberschreitende-Radfaehre-startet-wieder-,radfaehre104.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRsh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRsh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Flensburg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Flensburg&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Fahrrad" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Fahrrad&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/560/016/724/405/165/original/4a78ca9b77b5386d.png" type="image/png" fileSize="2227883" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Bild: Eine kleine Fähre fährt im Wasser 
+
+Text: Grenzüberschreitende Radfähre startet wieder. Im deutsch-dänischen Grenzgebiet zwischen Egernsund und Flensburg.</media:description>
+      </media:content>
+      <category>NDRsh</category>
+      <category>flensburg</category>
+      <category>fahrrad</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109363993309638643</guid>
-      <link>https://ist.social/@an/109363993309638643</link>
-      <pubDate>Fri, 18 Nov 2022 09:01:44 +0000</pubDate>
-      <description>&lt;p&gt;Thx for 100 friends on here! 😊&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110559781938979439</guid>
+      <link>https://ard.social/@NDR/110559781938979439</link>
+      <pubDate>Sat, 17 Jun 2023 13:26:31 +0000</pubDate>
+      <description>&lt;p&gt;Die Umweltverbände BUND, NABU und WWF befürchten erneut ein Fischsterben in der Elbe. 🐟 🐡 🐠 &lt;/p&gt;&lt;p&gt;&amp;quot;Es ist mit Blick auf die Wettervorhersage und bei den bereits jetzt besorgniserregend niedrigen Sauerstoffwerten zu befürchten, dass sich die ungewöhnlich große Ausdehnung des Sauerstofflochs aus dem vergangenen Jahr wiederholen wird&amp;quot;, sagte Linda Kahl, Gewässerreferentin beim BUND Hamburg.&lt;/p&gt;&lt;p&gt;📝 Weitere Informationen zum Thema gibt&amp;#39;s hier: &lt;a href="https://www.ndr.de/nachrichten/hamburg/Umweltverbaende-befuerchten-Fischsterben-in-der-Elbe-in-Hamburg,fischsterben470.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/hamburg/Umw&lt;/span&gt;&lt;span class="invisible"&gt;eltverbaende-befuerchten-Fischsterben-in-der-Elbe-in-Hamburg,fischsterben470.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRhh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRhh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Hamburg" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hamburg&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Elbe" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Elbe&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Fischsterben" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Fischsterben&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/559/764/686/104/046/original/c66c95dc7ebe771b.jpg" type="image/jpeg" fileSize="431121" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Bild: Die Elbe und drei Kräne aus dem Hamburger Hafen sind zu sehen. 
+
+Text: 
+Umweltverbände befürchten Fischsterben in der Elbe in Hamburg - 
+steigen die Temperaturen, wird der Sauerstoff in der Elbe oft knapp. Im vergangenen Jahr starben deswegen tausende Fische.</media:description>
+      </media:content>
+      <category>NDRhh</category>
+      <category>hamburg</category>
+      <category>elbe</category>
+      <category>Fischsterben</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109354487615924424</guid>
-      <link>https://ist.social/@an/109354487615924424</link>
-      <pubDate>Wed, 16 Nov 2022 16:44:19 +0000</pubDate>
-      <description>&lt;p&gt;Still no luck getting the media proxy working again... Ahhhh&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110558780599494269</guid>
+      <link>https://ard.social/@NDR/110558780599494269</link>
+      <pubDate>Sat, 17 Jun 2023 09:11:52 +0000</pubDate>
+      <description>&lt;p&gt;Die Bürgerinnen und Bürger in der DDR sind unzufrieden und verlangen unter anderem freie Wahlen, den Rücktritt der SED-Regierung, den Abzug der Sowjet-Truppen und die Wiedervereinigung.&lt;/p&gt;&lt;p&gt;Vor 70 Jahren, am 17. Juni 1953, kommt es zum Volksaufstand. ✊ 💥 &lt;/p&gt;&lt;p&gt;📝 Die ganze Geschichte gibt es hier: &lt;a href="https://www.ndr.de/geschichte/schauplaetze/volksaufstand105.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/geschichte/schauplaetze&lt;/span&gt;&lt;span class="invisible"&gt;/volksaufstand105.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRgeschichte" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRgeschichte&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/DDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;DDR&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Volksaufstand" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Volksaufstand&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/558/748/255/171/542/original/fc02ad019bb99f29.png" type="image/png" fileSize="1231699" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Bild: schwarz/weiß Aufnahme des Volksaufstandes in der DDR. Ein brennendes Haus und viele Menschen auf der Straße. 
+
+Text: Vor 70 Jahren: Volksaufstand in der DDR. Bürger in der DDR fordern 1953 freie Wahlen und bessere Lebensbedingungen. </media:description>
+      </media:content>
+      <category>NDRgeschichte</category>
+      <category>DDR</category>
+      <category>volksaufstand</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109347513318037833</guid>
-      <link>https://ist.social/@an/109347513318037833</link>
-      <pubDate>Tue, 15 Nov 2022 11:10:40 +0000</pubDate>
-      <description>&lt;p&gt;Upgraded to Mastodon 4.0.0 (and then to 4.0.2) yesterday. Took a while to compile on my Raspberry Pi.... working great so far - except for the media proxy, so all external images are broken now... 😶&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110558498945216699</guid>
+      <link>https://ard.social/@NDR/110558498945216699</link>
+      <pubDate>Sat, 17 Jun 2023 08:00:14 +0000</pubDate>
+      <description>&lt;p&gt;Vom 17. bis zum 25. Juni 2023 steht die Landeshauptstadt wieder ganz im Zeichen der Kieler Woche. ⚓ ⛵ 🌊 &lt;/p&gt;&lt;p&gt;Ob im Wasser, auf den Bühnen oder an den Flaniermeilen: Klassiker und Besonderheiten aus dem Programm im Überblick.&lt;/p&gt;&lt;p&gt;👉&lt;a href="https://www.ndr.de/nachrichten/schleswig-holstein/kieler_woche/Kieler-Woche-2023-Programm-Konzerte-und-Feuerwerk,kielerwoche3702.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/schleswig-h&lt;/span&gt;&lt;span class="invisible"&gt;olstein/kieler_woche/Kieler-Woche-2023-Programm-Konzerte-und-Feuerwerk,kielerwoche3702.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/NDRsh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRsh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/KielerWoche" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;KielerWoche&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/SchleswigHolstein" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;SchleswigHolstein&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Kiel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Kiel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/558/483/795/457/417/original/f0fcc0db91ad96e8.jpg" type="image/jpeg" fileSize="465210" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Bild: Ein großes Riesenrad mit Beleuchtung bei Nacht. 
+
+Text: Kieler Woche 2023 - Das Programm.</media:description>
+      </media:content>
+      <category>kielerwoche</category>
+      <category>SchleswigHolstein</category>
+      <category>NDRsh</category>
+      <category>kiel</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109336946224022940</guid>
-      <link>https://ist.social/@an/109336946224022940</link>
-      <pubDate>Sun, 13 Nov 2022 14:23:19 +0000</pubDate>
-      <description>&lt;p&gt;Really excited for Mastodon 4.0 which *should* be released tomorrow!&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110553680491604690</guid>
+      <link>https://ard.social/@NDR/110553680491604690</link>
+      <pubDate>Fri, 16 Jun 2023 11:34:50 +0000</pubDate>
+      <description>&lt;p&gt;Das Hurricane Festival ist eines der größten Musikfestivals in Deutschland: Im niedersächsischen Scheeßel sind wieder zehntausende Musikfans zu Gast, um zu den großen Namen aus Rock, Pop, Alternative, Indie, Hip-Hop und Elektro ausgelassen zu feiern.&lt;/p&gt;&lt;p&gt;Wir zeigen euch ausgewählte Highlights im Videostream. &lt;/p&gt;&lt;p&gt;📝 ▶️🔴 &lt;a href="https://www.ndr.de/kultur/musik/hurricane_festival/Hurricane-Festival-2023-NDRde-zeigt-Konzerte-im-Videostream,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/kultur/musik/hurricane_&lt;/span&gt;&lt;span class="invisible"&gt;festival/Hurricane-Festival-2023-NDRde-zeigt-Konzerte-im-Videostream,hurricane4466.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Hurricane" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Hurricane&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Festival" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Festival&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Livestream" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Livestream&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRnds" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRnds&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Schee%C3%9Fel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Scheeßel&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/553/850/044/245/410/original/891bd24df84e751b.jpeg" type="image/jpeg" fileSize="362674" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+      </media:content>
+      <category>Hurricane</category>
+      <category>festival</category>
+      <category>Livestream</category>
+      <category>ndr</category>
+      <category>ndrnds</category>
+      <category>Scheeßel</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109336903082688733</guid>
-      <link>https://ist.social/@an/109336903082688733</link>
-      <pubDate>Sun, 13 Nov 2022 14:12:20 +0000</pubDate>
-      <description>&lt;p&gt;Trying out the &amp;quot;Mastodos&amp;quot; App for Android....&lt;br /&gt;It&amp;#39;s a fork of the official app, but with some additional features. I&amp;#39;m really liking it so far! Biggest plus point for me: I can manage my bookmarks right in the App!&lt;br /&gt;&lt;a href="https://github.com/sk22/mastodos" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;github.com/sk22/mastodos&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110553148557589994</guid>
+      <link>https://ard.social/@NDR/110553148557589994</link>
+      <pubDate>Fri, 16 Jun 2023 09:19:34 +0000</pubDate>
+      <description>&lt;p&gt;Zwei Frauen oder zwei Männer, Hand in Hand, zwischen ihren Köpfen ein Herz. &lt;/p&gt;&lt;p&gt;Solche queeren Ampelfiguren gibt es bereits in einigen Städten - und ab Donnerstag auch in Göttingen.&lt;/p&gt;&lt;p&gt;🚦 🏳️‍🌈&lt;/p&gt;&lt;p&gt;Durch eine Spendenaktion kamen 1.500 Euro zusammen, um die Ampeln am Geismar Tor umzugestalten. &lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Goettingen-hat-jetzt-auch-queere-Ampelfiguren,aktuellbraunschweig10790.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/niedersachs&lt;/span&gt;&lt;span class="invisible"&gt;en/braunschweig_harz_goettingen/Goettingen-hat-jetzt-auch-queere-Ampelfiguren,aktuellbraunschweig10790.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/G%C3%B6ttingen" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Göttingen&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDR" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDR&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Ampel" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Ampel&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRnds" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRnds&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Queer" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Queer&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/553/157/019/691/000/original/ac13c4f8684f5617.png" type="image/png" fileSize="993432" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Bild: Auf einer Fußgängerampel sieht man die Ampelfiguren, die Hand in Hand gehen.
+
+Text: Queere Ampelfiguren leuchten in Göttingen. Die Ampelfiguren sollen ein Zeichen für Liebe setzen. Ermöglicht wurden sie durch Spenden und einer Mehrheit im Rat.</media:description>
+      </media:content>
+      <category>ndr</category>
+      <category>ampel</category>
+      <category>queer</category>
+      <category>gottingen</category>
+      <category>ndrnds</category>
     </item>
     <item>
-      <guid isPermaLink="true">https://ist.social/@an/109316290696236291</guid>
-      <link>https://ist.social/@an/109316290696236291</link>
-      <pubDate>Wed, 09 Nov 2022 22:50:20 +0000</pubDate>
-      <description>&lt;p&gt;unverified is the new verified&lt;/p&gt;</description>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://ist.social/@an/109303128769928222</guid>
-      <link>https://ist.social/@an/109303128769928222</link>
-      <pubDate>Mon, 07 Nov 2022 15:03:05 +0000</pubDate>
-      <description>&lt;p&gt;&lt;span class="h-card"&gt;&lt;a href="https://elekk.xyz/@noelle" class="u-url mention"&gt;@&lt;span&gt;noelle&lt;/span&gt;&lt;/a&gt;&lt;/span&gt; &lt;br /&gt;Love your &amp;quot;Guide to Mastodon&amp;quot;! Great work!&lt;br /&gt;I own the domain &amp;quot;mastodon.wiki&amp;quot; - if you have any use for it, let me know! I could even help create a minimal website for the guide if you want!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://ist.social/@an/109297630854099644</guid>
-      <link>https://ist.social/@an/109297630854099644</link>
-      <pubDate>Sun, 06 Nov 2022 15:44:54 +0000</pubDate>
-      <description>&lt;p&gt;Hey everyone! 😊&lt;br /&gt;You can also find me on:&lt;br /&gt;✨ SpaceHey: &lt;a href="http://spacehey.com/an" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;http://&lt;/span&gt;&lt;span class=""&gt;spacehey.com/an&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;✨ Instagram: &lt;a href="http://instagr.am/anthemaker" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;http://&lt;/span&gt;&lt;span class=""&gt;instagr.am/anthemaker&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;✨ Mastodon: &lt;a href="http://ist.social/@an" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;http://&lt;/span&gt;&lt;span class=""&gt;ist.social/@an&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt; (&lt;span class="h-card"&gt;&lt;a href="https://ist.social/@an" class="u-url mention"&gt;@&lt;span&gt;an&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;)&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ard.social/@NDR/110552470708509096</guid>
+      <link>https://ard.social/@NDR/110552470708509096</link>
+      <pubDate>Fri, 16 Jun 2023 06:27:10 +0000</pubDate>
+      <description>&lt;p&gt;Der ganze Norden ächzt unter Trockenheit und Hitze. &lt;/p&gt;&lt;p&gt;Um die Einsatzkräfte aktuell zu entlasten, bittet der Landesfeuerwehrverband Schleswig-Holstein alle darum, besonders aufzupassen. 🧯&lt;/p&gt;&lt;p&gt;📝 ▶️ &lt;a href="https://www.ndr.de/nachrichten/schleswig-holstein/Feuerwehrleute-loeschen-zwei-Waldbraende-in-SH,mielkendorf110.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de" target="_blank" rel="nofollow noopener noreferrer"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;ndr.de/nachrichten/schleswig-h&lt;/span&gt;&lt;span class="invisible"&gt;olstein/Feuerwehrleute-loeschen-zwei-Waldbraende-in-SH,mielkendorf110.html?at_medium=mastodon&amp;amp;at_campaign=NDR.de&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ard.social/tags/Trockenheit" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Trockenheit&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Waldbrand" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Waldbrand&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/NDRsh" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;NDRsh&lt;/span&gt;&lt;/a&gt; &lt;a href="https://ard.social/tags/Feuer" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;Feuer&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://storage.googleapis.com/mastodon-prod-bucket/media_attachments/files/110/552/452/969/186/365/original/6ba4a4ad944b90f5.png" type="image/png" fileSize="2058291" medium="image">
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:description type="plain">Bild: Eine Zigarette entfacht ein Feuer auf dem trockenen Waldboden.
+
+Text: "Bitte der Feuerwehr: Seid vorsichtig. Der Feuerwehrverband SH (Schleswig-Holstein) ruft dazu auf, keine Zigarettenkippen aus dem Fenster zu werfen, keine Gasbrenner im Garten einzusetzen, keine Lagerfeuer auf Wiesen oder im Wald zu machen oder dort zu grillen."</media:description>
+      </media:content>
+      <category>trockenheit</category>
+      <category>Waldbrand</category>
+      <category>NDRsh</category>
+      <category>Feuer</category>
     </item>
   </channel>
 </rss>

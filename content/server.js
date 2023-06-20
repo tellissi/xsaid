@@ -6,6 +6,8 @@ const config = require('./config.json');
 const app = express();
 const port = 3000;
 
+let lastModifiedTime = fs.statSync('./config.json').mtimeMs;
+
 const rssFeedDomain = config.rssFeedDomain;
 const username = config.username;
 const rssFeedUrl = rssFeedDomain + '/@' + username + '.rss';
@@ -32,12 +34,28 @@ function downloadRSSFeed() {
     });
 }
 
+function checkConfigChanges() {
+    fs.stat('./config.json', (err, stats) => {
+        if (err) {
+            console.error('Fehler beim Überprüfen der Konfigurationsdatei:', err);
+            return;
+        }
+
+        const modifiedTime = stats.mtimeMs;
+        if (modifiedTime > lastModifiedTime) {
+            console.log('Änderungen in der Konfigurationsdatei erkannt. Aktualisiere den RSS-Feed.');
+            lastModifiedTime = modifiedTime;
+            downloadRSSFeed();
+        }
+    });
+}
+
 app.get('/', (req, res) => {
     res.send('RSS-Feed Server');
 });
 
 app.get('/run-rss-downloader', checkIP, (req, res) => {
-    downloadRSSFeed();
+    checkConfigChanges();
     res.send('RSS-Feed-Downloader gestartet.');
 });
 
