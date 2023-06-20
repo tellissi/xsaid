@@ -7,3 +7,4 @@ Also setup a nickname, which will appear over the content.
 1. head to the directory "content": with cd content
 2. node rssDownloader.js
 3. crtl +c 
+ 
