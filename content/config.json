@@ -1,6 +1,6 @@
 {
-    "rssFeedDomain": "https://ist.social",
-    "username": "an",
+    "rssFeedDomain": "https://ard.social",
+    "username": "tagesschau",
     "nickname": "anton",
     "allowedIPs": [
         "::ffff:127.0.0.1"
