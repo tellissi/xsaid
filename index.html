@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+
+    <script>
+        var nickname; // Variable zum Speichern des Nicknamens
+
+        function loadConfig() {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    nickname = JSON.parse(this.responseText).nickname;
+                    loadXMLDoc(); // Funktion zum Laden des RSS-Feeds aufrufen, nachdem die Konfiguration geladen wurde
+                }
+            };
+            xmlhttp.open("GET", "./content/config.json", true);
+            xmlhttp.send();
+        }
+
+        function loadXMLDoc() {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    parseXML(this);
+                }
+            };
+            xmlhttp.open("GET", "./content/actualfeed.rss", true);
+            xmlhttp.send();
+        }
+
+        function parseXML(xml) {
+            var xmlDoc = xml.responseXML;
+            var description = xmlDoc.getElementsByTagName("description")[1].innerHTML;
+            var strippedDescription = stripTags(description); // Remove HTML tags
+            var content = nickname + " says: " + strippedDescription; // Benutzernamen in den Text einfügen
+            document.getElementById("rssContent").innerHTML = content;
+        }
+
+        function stripTags(html) {
+            var doc = new DOMParser().parseFromString(html, 'text/html');
+            return doc.body.textContent || "";
+        }
+    </script>
+</head>
+
+<body onload="loadConfig()">
+
+    <div id="rssContainer">
+        <div id="rssContent"></div>
+    </div>
+</body>
+
+</html>
